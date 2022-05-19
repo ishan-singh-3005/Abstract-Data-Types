@@ -1,4 +1,6 @@
-# BinarySearchTrees
-Working with binary search tree using Python.
+# Abstract Data Types
+This project implements several abstract data types using Python.
 
-This project implements several mutating and non-mutating functions of Binary Search Trees.
+## Binary Search Trees
+
+## Linked Lists
