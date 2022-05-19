@@ -1,5 +1,5 @@
-# Abstract Data Types
-This project implements several abstract data types using Python.
+# Abstract Data structures
+This project implements several abstract data structures using Python.
 
 ## Trees
 
